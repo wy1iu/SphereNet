@@ -1,0 +1,768 @@
+====iteration_100: fit=1.4307, reg=0.4785, orth=0.4046, acc=0.4844
+====iteration_200: fit=1.2095, reg=0.4513, orth=0.3030, acc=0.5547
+====iteration_300: fit=1.0818, reg=0.4250, orth=0.2469, acc=0.6094
+====iteration_400: fit=0.9096, reg=0.4002, orth=0.2107, acc=0.7344
+====iteration_500: fit=0.8974, reg=0.3768, orth=0.1887, acc=0.6797
+++++iteration_500: test acc=0.1166
+====iteration_600: fit=0.6831, reg=0.3553, orth=0.1747, acc=0.7734
+====iteration_700: fit=0.7312, reg=0.3352, orth=0.1655, acc=0.7422
+====iteration_800: fit=0.6894, reg=0.3165, orth=0.1569, acc=0.7344
+====iteration_900: fit=0.6494, reg=0.2994, orth=0.1486, acc=0.8359
+====iteration_1000: fit=0.7429, reg=0.2835, orth=0.1440, acc=0.7734
+++++iteration_1000: test acc=0.1463
+====iteration_1100: fit=0.4459, reg=0.2689, orth=0.1409, acc=0.8594
+====iteration_1200: fit=0.4956, reg=0.2554, orth=0.1390, acc=0.8281
+====iteration_1300: fit=0.6313, reg=0.2432, orth=0.1371, acc=0.8047
+====iteration_1400: fit=0.5219, reg=0.2318, orth=0.1395, acc=0.8359
+====iteration_1500: fit=0.5825, reg=0.2212, orth=0.1364, acc=0.8047
+++++iteration_1500: test acc=0.5657
+====iteration_1600: fit=0.6441, reg=0.2116, orth=0.1333, acc=0.8047
+====iteration_1700: fit=0.6347, reg=0.2028, orth=0.1327, acc=0.8047
+====iteration_1800: fit=0.4068, reg=0.1945, orth=0.1340, acc=0.8906
+====iteration_1900: fit=0.5392, reg=0.1870, orth=0.1321, acc=0.8203
+====iteration_2000: fit=0.4104, reg=0.1801, orth=0.1326, acc=0.8984
+++++iteration_2000: test acc=0.7433
+====iteration_2100: fit=0.3545, reg=0.1737, orth=0.1315, acc=0.9375
+====iteration_2200: fit=0.3624, reg=0.1677, orth=0.1331, acc=0.9062
+====iteration_2300: fit=0.4719, reg=0.1622, orth=0.1326, acc=0.8672
+====iteration_2400: fit=0.4040, reg=0.1572, orth=0.1298, acc=0.8906
+====iteration_2500: fit=0.4085, reg=0.1524, orth=0.1306, acc=0.9062
+++++iteration_2500: test acc=0.6698
+====iteration_2600: fit=0.4245, reg=0.1480, orth=0.1321, acc=0.8984
+====iteration_2700: fit=0.4413, reg=0.1442, orth=0.1301, acc=0.8594
+====iteration_2800: fit=0.5196, reg=0.1404, orth=0.1300, acc=0.8125
+====iteration_2900: fit=0.4214, reg=0.1368, orth=0.1302, acc=0.8594
+====iteration_3000: fit=0.3675, reg=0.1336, orth=0.1299, acc=0.8750
+++++iteration_3000: test acc=0.8123
+====iteration_3100: fit=0.4916, reg=0.1306, orth=0.1316, acc=0.8359
+====iteration_3200: fit=0.3487, reg=0.1277, orth=0.1320, acc=0.8984
+====iteration_3300: fit=0.4205, reg=0.1250, orth=0.1313, acc=0.8828
+====iteration_3400: fit=0.3731, reg=0.1225, orth=0.1303, acc=0.9062
+====iteration_3500: fit=0.4286, reg=0.1200, orth=0.1320, acc=0.8906
+++++iteration_3500: test acc=0.7873
+====iteration_3600: fit=0.3325, reg=0.1176, orth=0.1323, acc=0.9141
+====iteration_3700: fit=0.3327, reg=0.1156, orth=0.1301, acc=0.8984
+====iteration_3800: fit=0.4163, reg=0.1136, orth=0.1322, acc=0.8750
+====iteration_3900: fit=0.3092, reg=0.1117, orth=0.1317, acc=0.9141
+====iteration_4000: fit=0.3547, reg=0.1099, orth=0.1309, acc=0.8906
+++++iteration_4000: test acc=0.7838
+====iteration_4100: fit=0.3057, reg=0.1082, orth=0.1309, acc=0.9297
+====iteration_4200: fit=0.2911, reg=0.1067, orth=0.1321, acc=0.9609
+====iteration_4300: fit=0.3351, reg=0.1052, orth=0.1311, acc=0.9062
+====iteration_4400: fit=0.4133, reg=0.1038, orth=0.1330, acc=0.8672
+====iteration_4500: fit=0.3227, reg=0.1022, orth=0.1332, acc=0.9062
+++++iteration_4500: test acc=0.8308
+====iteration_4600: fit=0.1858, reg=0.1010, orth=0.1293, acc=0.9766
+====iteration_4700: fit=0.4022, reg=0.0996, orth=0.1320, acc=0.8750
+====iteration_4800: fit=0.2412, reg=0.0982, orth=0.1342, acc=0.9297
+====iteration_4900: fit=0.3880, reg=0.0970, orth=0.1292, acc=0.8828
+====iteration_5000: fit=0.3106, reg=0.0960, orth=0.1262, acc=0.9062
+++++iteration_5000: test acc=0.7778
+====iteration_5100: fit=0.2055, reg=0.0948, orth=0.1300, acc=0.9609
+====iteration_5200: fit=0.3265, reg=0.0937, orth=0.1304, acc=0.9062
+====iteration_5300: fit=0.2416, reg=0.0926, orth=0.1283, acc=0.9531
+====iteration_5400: fit=0.2974, reg=0.0917, orth=0.1281, acc=0.9219
+====iteration_5500: fit=0.3119, reg=0.0906, orth=0.1302, acc=0.9297
+++++iteration_5500: test acc=0.8019
+====iteration_5600: fit=0.2213, reg=0.0897, orth=0.1264, acc=0.9531
+====iteration_5700: fit=0.2252, reg=0.0888, orth=0.1272, acc=0.9609
+====iteration_5800: fit=0.3119, reg=0.0877, orth=0.1277, acc=0.9219
+====iteration_5900: fit=0.2274, reg=0.0870, orth=0.1255, acc=0.9375
+====iteration_6000: fit=0.3328, reg=0.0861, orth=0.1286, acc=0.9141
+++++iteration_6000: test acc=0.8137
+====iteration_6100: fit=0.2325, reg=0.0854, orth=0.1276, acc=0.9453
+====iteration_6200: fit=0.2643, reg=0.0845, orth=0.1272, acc=0.9531
+====iteration_6300: fit=0.2364, reg=0.0839, orth=0.1248, acc=0.9453
+====iteration_6400: fit=0.3023, reg=0.0833, orth=0.1239, acc=0.9062
+====iteration_6500: fit=0.4019, reg=0.0825, orth=0.1283, acc=0.8828
+++++iteration_6500: test acc=0.8388
+====iteration_6600: fit=0.2516, reg=0.0819, orth=0.1226, acc=0.9297
+====iteration_6700: fit=0.4225, reg=0.0812, orth=0.1244, acc=0.8906
+====iteration_6800: fit=0.3935, reg=0.0805, orth=0.1254, acc=0.8984
+====iteration_6900: fit=0.2161, reg=0.0797, orth=0.1232, acc=0.9531
+====iteration_7000: fit=0.3198, reg=0.0791, orth=0.1229, acc=0.9141
+++++iteration_7000: test acc=0.8245
+====iteration_7100: fit=0.3043, reg=0.0785, orth=0.1223, acc=0.9062
+====iteration_7200: fit=0.4183, reg=0.0780, orth=0.1206, acc=0.8750
+====iteration_7300: fit=0.2981, reg=0.0774, orth=0.1234, acc=0.9297
+====iteration_7400: fit=0.2206, reg=0.0768, orth=0.1223, acc=0.9531
+====iteration_7500: fit=0.2909, reg=0.0763, orth=0.1246, acc=0.9219
+++++iteration_7500: test acc=0.8410
+====iteration_7600: fit=0.2575, reg=0.0758, orth=0.1231, acc=0.9531
+====iteration_7700: fit=0.2737, reg=0.0752, orth=0.1235, acc=0.9219
+====iteration_7800: fit=0.2443, reg=0.0747, orth=0.1220, acc=0.9297
+====iteration_7900: fit=0.3008, reg=0.0743, orth=0.1207, acc=0.9141
+====iteration_8000: fit=0.2175, reg=0.0737, orth=0.1215, acc=0.9375
+++++iteration_8000: test acc=0.8530
+====iteration_8100: fit=0.1784, reg=0.0733, orth=0.1229, acc=0.9609
+====iteration_8200: fit=0.3066, reg=0.0727, orth=0.1253, acc=0.9219
+====iteration_8300: fit=0.2684, reg=0.0722, orth=0.1235, acc=0.9375
+====iteration_8400: fit=0.2907, reg=0.0718, orth=0.1256, acc=0.9062
+====iteration_8500: fit=0.2561, reg=0.0712, orth=0.1230, acc=0.9297
+++++iteration_8500: test acc=0.8247
+====iteration_8600: fit=0.2119, reg=0.0709, orth=0.1212, acc=0.9453
+====iteration_8700: fit=0.3322, reg=0.0704, orth=0.1204, acc=0.9141
+====iteration_8800: fit=0.3308, reg=0.0700, orth=0.1201, acc=0.9219
+====iteration_8900: fit=0.2582, reg=0.0696, orth=0.1206, acc=0.9297
+====iteration_9000: fit=0.2884, reg=0.0692, orth=0.1195, acc=0.9219
+++++iteration_9000: test acc=0.8418
+====iteration_9100: fit=0.2532, reg=0.0689, orth=0.1184, acc=0.9609
+====iteration_9200: fit=0.2439, reg=0.0684, orth=0.1171, acc=0.9375
+====iteration_9300: fit=0.1791, reg=0.0679, orth=0.1217, acc=0.9609
+====iteration_9400: fit=0.3283, reg=0.0675, orth=0.1209, acc=0.9297
+====iteration_9500: fit=0.1987, reg=0.0671, orth=0.1185, acc=0.9531
+++++iteration_9500: test acc=0.8481
+====iteration_9600: fit=0.1483, reg=0.0670, orth=0.1148, acc=0.9844
+====iteration_9700: fit=0.2644, reg=0.0666, orth=0.1178, acc=0.9297
+====iteration_9800: fit=0.1584, reg=0.0662, orth=0.1174, acc=0.9688
+====iteration_9900: fit=0.2208, reg=0.0659, orth=0.1169, acc=0.9453
+====iteration_10000: fit=0.2146, reg=0.0656, orth=0.1163, acc=0.9375
+++++iteration_10000: test acc=0.8609
+====iteration_10100: fit=0.3058, reg=0.0654, orth=0.1174, acc=0.9375
+====iteration_10200: fit=0.2739, reg=0.0649, orth=0.1189, acc=0.9219
+====iteration_10300: fit=0.1840, reg=0.0647, orth=0.1175, acc=0.9531
+====iteration_10400: fit=0.3025, reg=0.0642, orth=0.1198, acc=0.9062
+====iteration_10500: fit=0.2058, reg=0.0639, orth=0.1164, acc=0.9453
+++++iteration_10500: test acc=0.8284
+====iteration_10600: fit=0.1812, reg=0.0636, orth=0.1154, acc=0.9609
+====iteration_10700: fit=0.1939, reg=0.0632, orth=0.1174, acc=0.9844
+====iteration_10800: fit=0.2491, reg=0.0629, orth=0.1181, acc=0.9375
+====iteration_10900: fit=0.2525, reg=0.0627, orth=0.1160, acc=0.9219
+====iteration_11000: fit=0.1540, reg=0.0623, orth=0.1160, acc=0.9766
+++++iteration_11000: test acc=0.8575
+====iteration_11100: fit=0.3347, reg=0.0621, orth=0.1145, acc=0.8984
+====iteration_11200: fit=0.2212, reg=0.0618, orth=0.1129, acc=0.9609
+====iteration_11300: fit=0.2572, reg=0.0615, orth=0.1143, acc=0.9453
+====iteration_11400: fit=0.1813, reg=0.0612, orth=0.1144, acc=0.9844
+====iteration_11500: fit=0.2277, reg=0.0609, orth=0.1145, acc=0.9609
+++++iteration_11500: test acc=0.8441
+====iteration_11600: fit=0.2130, reg=0.0608, orth=0.1119, acc=0.9375
+====iteration_11700: fit=0.2065, reg=0.0604, orth=0.1140, acc=0.9609
+====iteration_11800: fit=0.2385, reg=0.0602, orth=0.1117, acc=0.9375
+====iteration_11900: fit=0.2403, reg=0.0599, orth=0.1118, acc=0.9141
+====iteration_12000: fit=0.2660, reg=0.0596, orth=0.1119, acc=0.9453
+++++iteration_12000: test acc=0.8480
+====iteration_12100: fit=0.2473, reg=0.0594, orth=0.1107, acc=0.9297
+====iteration_12200: fit=0.1937, reg=0.0591, orth=0.1140, acc=0.9453
+====iteration_12300: fit=0.2667, reg=0.0589, orth=0.1145, acc=0.9453
+====iteration_12400: fit=0.1831, reg=0.0586, orth=0.1135, acc=0.9766
+====iteration_12500: fit=0.2242, reg=0.0584, orth=0.1125, acc=0.9609
+++++iteration_12500: test acc=0.8405
+====iteration_12600: fit=0.2205, reg=0.0580, orth=0.1114, acc=0.9297
+====iteration_12700: fit=0.2413, reg=0.0579, orth=0.1111, acc=0.9297
+====iteration_12800: fit=0.2135, reg=0.0576, orth=0.1113, acc=0.9609
+====iteration_12900: fit=0.1859, reg=0.0574, orth=0.1096, acc=0.9531
+====iteration_13000: fit=0.2413, reg=0.0571, orth=0.1119, acc=0.9375
+++++iteration_13000: test acc=0.8260
+====iteration_13100: fit=0.1987, reg=0.0569, orth=0.1099, acc=0.9375
+====iteration_13200: fit=0.1959, reg=0.0567, orth=0.1108, acc=0.9531
+====iteration_13300: fit=0.2032, reg=0.0564, orth=0.1117, acc=0.9609
+====iteration_13400: fit=0.1434, reg=0.0562, orth=0.1124, acc=0.9844
+====iteration_13500: fit=0.1980, reg=0.0560, orth=0.1110, acc=0.9609
+++++iteration_13500: test acc=0.8622
+====iteration_13600: fit=0.2520, reg=0.0558, orth=0.1108, acc=0.9297
+====iteration_13700: fit=0.3139, reg=0.0556, orth=0.1112, acc=0.9062
+====iteration_13800: fit=0.2011, reg=0.0554, orth=0.1097, acc=0.9531
+====iteration_13900: fit=0.2599, reg=0.0552, orth=0.1091, acc=0.9375
+====iteration_14000: fit=0.2244, reg=0.0550, orth=0.1098, acc=0.9297
+++++iteration_14000: test acc=0.8290
+====iteration_14100: fit=0.1938, reg=0.0548, orth=0.1068, acc=0.9609
+====iteration_14200: fit=0.1364, reg=0.0547, orth=0.1054, acc=0.9922
+====iteration_14300: fit=0.2117, reg=0.0545, orth=0.1060, acc=0.9297
+====iteration_14400: fit=0.2169, reg=0.0543, orth=0.1047, acc=0.9375
+====iteration_14500: fit=0.1725, reg=0.0541, orth=0.1079, acc=0.9688
+++++iteration_14500: test acc=0.8418
+====iteration_14600: fit=0.2069, reg=0.0539, orth=0.1082, acc=0.9219
+====iteration_14700: fit=0.2720, reg=0.0538, orth=0.1079, acc=0.9453
+====iteration_14800: fit=0.2647, reg=0.0536, orth=0.1093, acc=0.9453
+====iteration_14900: fit=0.3801, reg=0.0533, orth=0.1122, acc=0.8984
+====iteration_15000: fit=0.2452, reg=0.0530, orth=0.1104, acc=0.9297
+++++iteration_15000: test acc=0.8576
+====iteration_15100: fit=0.1885, reg=0.0529, orth=0.1087, acc=0.9688
+====iteration_15200: fit=0.1709, reg=0.0527, orth=0.1067, acc=0.9609
+====iteration_15300: fit=0.2095, reg=0.0526, orth=0.1068, acc=0.9609
+====iteration_15400: fit=0.2279, reg=0.0524, orth=0.1069, acc=0.9609
+====iteration_15500: fit=0.1362, reg=0.0524, orth=0.1056, acc=0.9844
+++++iteration_15500: test acc=0.8289
+====iteration_15600: fit=0.2079, reg=0.0521, orth=0.1092, acc=0.9531
+====iteration_15700: fit=0.1516, reg=0.0520, orth=0.1085, acc=0.9688
+====iteration_15800: fit=0.2083, reg=0.0518, orth=0.1071, acc=0.9609
+====iteration_15900: fit=0.2553, reg=0.0515, orth=0.1093, acc=0.9375
+====iteration_16000: fit=0.1733, reg=0.0514, orth=0.1064, acc=0.9609
+++++iteration_16000: test acc=0.8186
+====iteration_16100: fit=0.1686, reg=0.0513, orth=0.1061, acc=0.9688
+====iteration_16200: fit=0.1825, reg=0.0512, orth=0.1052, acc=0.9531
+====iteration_16300: fit=0.1243, reg=0.0510, orth=0.1044, acc=0.9922
+====iteration_16400: fit=0.1509, reg=0.0509, orth=0.1039, acc=0.9609
+====iteration_16500: fit=0.1944, reg=0.0507, orth=0.1045, acc=0.9688
+++++iteration_16500: test acc=0.8296
+====iteration_16600: fit=0.1411, reg=0.0505, orth=0.1066, acc=0.9609
+====iteration_16700: fit=0.1992, reg=0.0504, orth=0.1045, acc=0.9688
+====iteration_16800: fit=0.1691, reg=0.0502, orth=0.1057, acc=0.9766
+====iteration_16900: fit=0.1969, reg=0.0499, orth=0.1072, acc=0.9531
+====iteration_17000: fit=0.2064, reg=0.0498, orth=0.1041, acc=0.9688
+++++iteration_17000: test acc=0.8672
+====iteration_17100: fit=0.1958, reg=0.0498, orth=0.1013, acc=0.9531
+====iteration_17200: fit=0.2193, reg=0.0495, orth=0.1056, acc=0.9375
+====iteration_17300: fit=0.1949, reg=0.0494, orth=0.1061, acc=0.9453
+====iteration_17400: fit=0.1840, reg=0.0493, orth=0.1068, acc=0.9609
+====iteration_17500: fit=0.1335, reg=0.0491, orth=0.1071, acc=0.9844
+++++iteration_17500: test acc=0.8594
+====iteration_17600: fit=0.2321, reg=0.0491, orth=0.1035, acc=0.9375
+====iteration_17700: fit=0.2110, reg=0.0490, orth=0.1033, acc=0.9453
+====iteration_17800: fit=0.2188, reg=0.0488, orth=0.1046, acc=0.9375
+====iteration_17900: fit=0.1283, reg=0.0486, orth=0.1055, acc=0.9844
+====iteration_18000: fit=0.2600, reg=0.0485, orth=0.1044, acc=0.9297
+++++iteration_18000: test acc=0.8138
+====iteration_18100: fit=0.1851, reg=0.0484, orth=0.1041, acc=0.9609
+====iteration_18200: fit=0.1301, reg=0.0482, orth=0.1057, acc=0.9766
+====iteration_18300: fit=0.1379, reg=0.0482, orth=0.1045, acc=0.9844
+====iteration_18400: fit=0.2176, reg=0.0480, orth=0.1044, acc=0.9531
+====iteration_18500: fit=0.2689, reg=0.0479, orth=0.1041, acc=0.9219
+++++iteration_18500: test acc=0.7791
+====iteration_18600: fit=0.1617, reg=0.0478, orth=0.1037, acc=0.9688
+====iteration_18700: fit=0.2262, reg=0.0477, orth=0.1027, acc=0.9375
+====iteration_18800: fit=0.1886, reg=0.0475, orth=0.1063, acc=0.9688
+====iteration_18900: fit=0.1874, reg=0.0474, orth=0.1045, acc=0.9297
+====iteration_19000: fit=0.2269, reg=0.0472, orth=0.1061, acc=0.9453
+++++iteration_19000: test acc=0.8543
+====iteration_19100: fit=0.2377, reg=0.0471, orth=0.1060, acc=0.9609
+====iteration_19200: fit=0.2060, reg=0.0470, orth=0.1053, acc=0.9531
+====iteration_19300: fit=0.1849, reg=0.0469, orth=0.1034, acc=0.9531
+====iteration_19400: fit=0.2369, reg=0.0468, orth=0.1040, acc=0.9531
+====iteration_19500: fit=0.1788, reg=0.0466, orth=0.1053, acc=0.9609
+++++iteration_19500: test acc=0.8382
+====iteration_19600: fit=0.1720, reg=0.0465, orth=0.1032, acc=0.9688
+====iteration_19700: fit=0.2106, reg=0.0465, orth=0.1007, acc=0.9453
+====iteration_19800: fit=0.1737, reg=0.0463, orth=0.1019, acc=0.9609
+====iteration_19900: fit=0.2086, reg=0.0461, orth=0.1038, acc=0.9453
+====iteration_20000: fit=0.1916, reg=0.0461, orth=0.1028, acc=0.9375
+++++iteration_20000: test acc=0.8534
+====iteration_20100: fit=0.1968, reg=0.0459, orth=0.1051, acc=0.9531
+====iteration_20200: fit=0.1391, reg=0.0458, orth=0.1027, acc=0.9844
+====iteration_20300: fit=0.2082, reg=0.0456, orth=0.1043, acc=0.9609
+====iteration_20400: fit=0.1975, reg=0.0456, orth=0.1039, acc=0.9688
+====iteration_20500: fit=0.2381, reg=0.0453, orth=0.1026, acc=0.9297
+++++iteration_20500: test acc=0.8542
+====iteration_20600: fit=0.2053, reg=0.0453, orth=0.1006, acc=0.9375
+====iteration_20700: fit=0.2562, reg=0.0452, orth=0.0992, acc=0.9297
+====iteration_20800: fit=0.2555, reg=0.0451, orth=0.0998, acc=0.9531
+====iteration_20900: fit=0.1823, reg=0.0450, orth=0.1008, acc=0.9688
+====iteration_21000: fit=0.1642, reg=0.0451, orth=0.0992, acc=0.9688
+++++iteration_21000: test acc=0.8477
+====iteration_21100: fit=0.2828, reg=0.0449, orth=0.1016, acc=0.9141
+====iteration_21200: fit=0.1986, reg=0.0449, orth=0.1002, acc=0.9375
+====iteration_21300: fit=0.1834, reg=0.0447, orth=0.0998, acc=0.9531
+====iteration_21400: fit=0.2250, reg=0.0445, orth=0.1034, acc=0.9609
+====iteration_21500: fit=0.2899, reg=0.0444, orth=0.1049, acc=0.9219
+++++iteration_21500: test acc=0.8634
+====iteration_21600: fit=0.1585, reg=0.0443, orth=0.1020, acc=0.9766
+====iteration_21700: fit=0.2674, reg=0.0443, orth=0.0999, acc=0.9297
+====iteration_21800: fit=0.1521, reg=0.0442, orth=0.0988, acc=0.9688
+====iteration_21900: fit=0.1937, reg=0.0442, orth=0.0979, acc=0.9609
+====iteration_22000: fit=0.2313, reg=0.0441, orth=0.1017, acc=0.9609
+++++iteration_22000: test acc=0.8650
+====iteration_22100: fit=0.1569, reg=0.0440, orth=0.1014, acc=0.9766
+====iteration_22200: fit=0.2379, reg=0.0439, orth=0.1021, acc=0.9531
+====iteration_22300: fit=0.1898, reg=0.0439, orth=0.1018, acc=0.9609
+====iteration_22400: fit=0.2315, reg=0.0436, orth=0.1058, acc=0.9297
+====iteration_22500: fit=0.1446, reg=0.0436, orth=0.1030, acc=0.9844
+++++iteration_22500: test acc=0.8268
+====iteration_22600: fit=0.2416, reg=0.0435, orth=0.1025, acc=0.9453
+====iteration_22700: fit=0.1747, reg=0.0433, orth=0.1037, acc=0.9531
+====iteration_22800: fit=0.1794, reg=0.0432, orth=0.1012, acc=0.9453
+====iteration_22900: fit=0.1698, reg=0.0431, orth=0.0994, acc=0.9609
+====iteration_23000: fit=0.1698, reg=0.0432, orth=0.0990, acc=0.9688
+++++iteration_23000: test acc=0.8724
+====iteration_23100: fit=0.2137, reg=0.0431, orth=0.0994, acc=0.9531
+====iteration_23200: fit=0.1418, reg=0.0430, orth=0.0996, acc=0.9844
+====iteration_23300: fit=0.1392, reg=0.0429, orth=0.1011, acc=0.9844
+====iteration_23400: fit=0.2526, reg=0.0427, orth=0.1032, acc=0.9375
+====iteration_23500: fit=0.1856, reg=0.0426, orth=0.1016, acc=0.9688
+++++iteration_23500: test acc=0.8651
+====iteration_23600: fit=0.1655, reg=0.0426, orth=0.0988, acc=0.9609
+====iteration_23700: fit=0.1709, reg=0.0425, orth=0.1002, acc=0.9609
+====iteration_23800: fit=0.2206, reg=0.0424, orth=0.1006, acc=0.9375
+====iteration_23900: fit=0.1992, reg=0.0425, orth=0.0980, acc=0.9453
+====iteration_24000: fit=0.2168, reg=0.0423, orth=0.0966, acc=0.9531
+++++iteration_24000: test acc=0.8633
+====iteration_24100: fit=0.2200, reg=0.0421, orth=0.0984, acc=0.9297
+====iteration_24200: fit=0.2173, reg=0.0421, orth=0.0978, acc=0.9375
+====iteration_24300: fit=0.2445, reg=0.0420, orth=0.0979, acc=0.9453
+====iteration_24400: fit=0.1604, reg=0.0418, orth=0.1016, acc=0.9688
+====iteration_24500: fit=0.2419, reg=0.0418, orth=0.1003, acc=0.9531
+++++iteration_24500: test acc=0.8502
+====iteration_24600: fit=0.1996, reg=0.0418, orth=0.0987, acc=0.9531
+====iteration_24700: fit=0.2001, reg=0.0417, orth=0.0988, acc=0.9297
+====iteration_24800: fit=0.2050, reg=0.0416, orth=0.0995, acc=0.9453
+====iteration_24900: fit=0.2795, reg=0.0415, orth=0.1012, acc=0.9062
+====iteration_25000: fit=0.1822, reg=0.0413, orth=0.1025, acc=0.9688
+++++iteration_25000: test acc=0.8280
+====iteration_25100: fit=0.2458, reg=0.0413, orth=0.0993, acc=0.9531
+====iteration_25200: fit=0.1860, reg=0.0413, orth=0.0990, acc=0.9609
+====iteration_25300: fit=0.2259, reg=0.0412, orth=0.0998, acc=0.9453
+====iteration_25400: fit=0.1291, reg=0.0412, orth=0.0988, acc=0.9922
+====iteration_25500: fit=0.2454, reg=0.0412, orth=0.0989, acc=0.9375
+++++iteration_25500: test acc=0.8557
+====iteration_25600: fit=0.2340, reg=0.0410, orth=0.1003, acc=0.9219
+====iteration_25700: fit=0.2798, reg=0.0409, orth=0.0996, acc=0.9062
+====iteration_25800: fit=0.1463, reg=0.0410, orth=0.0979, acc=0.9609
+====iteration_25900: fit=0.1880, reg=0.0410, orth=0.0962, acc=0.9688
+====iteration_26000: fit=0.1861, reg=0.0409, orth=0.0983, acc=0.9531
+++++iteration_26000: test acc=0.8660
+====iteration_26100: fit=0.2445, reg=0.0408, orth=0.1015, acc=0.9531
+====iteration_26200: fit=0.1711, reg=0.0407, orth=0.1004, acc=0.9688
+====iteration_26300: fit=0.2316, reg=0.0407, orth=0.0993, acc=0.9531
+====iteration_26400: fit=0.1828, reg=0.0405, orth=0.0983, acc=0.9766
+====iteration_26500: fit=0.2116, reg=0.0405, orth=0.0988, acc=0.9453
+++++iteration_26500: test acc=0.8683
+====iteration_26600: fit=0.1644, reg=0.0404, orth=0.0989, acc=0.9688
+====iteration_26700: fit=0.2017, reg=0.0404, orth=0.0990, acc=0.9609
+====iteration_26800: fit=0.1306, reg=0.0404, orth=0.0971, acc=0.9766
+====iteration_26900: fit=0.1686, reg=0.0402, orth=0.1007, acc=0.9766
+====iteration_27000: fit=0.2817, reg=0.0401, orth=0.1017, acc=0.9297
+++++iteration_27000: test acc=0.8542
+====iteration_27100: fit=0.2503, reg=0.0401, orth=0.0982, acc=0.9375
+====iteration_27200: fit=0.1785, reg=0.0400, orth=0.0964, acc=0.9688
+====iteration_27300: fit=0.2038, reg=0.0399, orth=0.0958, acc=0.9609
+====iteration_27400: fit=0.1741, reg=0.0399, orth=0.0944, acc=0.9688
+====iteration_27500: fit=0.1551, reg=0.0399, orth=0.0941, acc=0.9766
+++++iteration_27500: test acc=0.8734
+====iteration_27600: fit=0.2515, reg=0.0398, orth=0.0951, acc=0.9297
+====iteration_27700: fit=0.2265, reg=0.0397, orth=0.0951, acc=0.9375
+====iteration_27800: fit=0.1354, reg=0.0396, orth=0.0967, acc=0.9922
+====iteration_27900: fit=0.2034, reg=0.0396, orth=0.0975, acc=0.9375
+====iteration_28000: fit=0.1539, reg=0.0395, orth=0.0972, acc=0.9766
+++++iteration_28000: test acc=0.8482
+====iteration_28100: fit=0.2325, reg=0.0395, orth=0.0980, acc=0.9219
+====iteration_28200: fit=0.1972, reg=0.0394, orth=0.0978, acc=0.9609
+====iteration_28300: fit=0.1618, reg=0.0394, orth=0.0974, acc=0.9688
+====iteration_28400: fit=0.1485, reg=0.0393, orth=0.0952, acc=0.9688
+====iteration_28500: fit=0.1518, reg=0.0392, orth=0.0952, acc=0.9766
+++++iteration_28500: test acc=0.8616
+====iteration_28600: fit=0.1466, reg=0.0392, orth=0.0943, acc=0.9844
+====iteration_28700: fit=0.1407, reg=0.0391, orth=0.0948, acc=0.9922
+====iteration_28800: fit=0.1883, reg=0.0391, orth=0.0953, acc=0.9531
+====iteration_28900: fit=0.1634, reg=0.0390, orth=0.0995, acc=0.9609
+====iteration_29000: fit=0.1895, reg=0.0389, orth=0.1004, acc=0.9531
+++++iteration_29000: test acc=0.8359
+====iteration_29100: fit=0.1721, reg=0.0390, orth=0.0985, acc=0.9453
+====iteration_29200: fit=0.1706, reg=0.0389, orth=0.0971, acc=0.9531
+====iteration_29300: fit=0.2794, reg=0.0388, orth=0.0990, acc=0.9375
+====iteration_29400: fit=0.1364, reg=0.0388, orth=0.1000, acc=0.9844
+====iteration_29500: fit=0.1946, reg=0.0387, orth=0.0987, acc=0.9531
+++++iteration_29500: test acc=0.8652
+====iteration_29600: fit=0.1774, reg=0.0387, orth=0.0960, acc=0.9766
+====iteration_29700: fit=0.0991, reg=0.0386, orth=0.0966, acc=1.0000
+====iteration_29800: fit=0.2141, reg=0.0386, orth=0.0980, acc=0.9609
+====iteration_29900: fit=0.1808, reg=0.0384, orth=0.0986, acc=0.9531
+====iteration_30000: fit=0.2250, reg=0.0384, orth=0.0962, acc=0.9375
+++++iteration_30000: test acc=0.8656
+====iteration_30100: fit=0.1226, reg=0.0383, orth=0.0941, acc=0.9922
+====iteration_30200: fit=0.1910, reg=0.0383, orth=0.0944, acc=0.9609
+====iteration_30300: fit=0.2206, reg=0.0383, orth=0.0975, acc=0.9531
+====iteration_30400: fit=0.1678, reg=0.0383, orth=0.0959, acc=0.9766
+====iteration_30500: fit=0.1743, reg=0.0382, orth=0.0953, acc=0.9531
+++++iteration_30500: test acc=0.8550
+====iteration_30600: fit=0.1804, reg=0.0382, orth=0.0940, acc=0.9531
+====iteration_30700: fit=0.1599, reg=0.0382, orth=0.0924, acc=0.9688
+====iteration_30800: fit=0.1535, reg=0.0381, orth=0.0950, acc=0.9688
+====iteration_30900: fit=0.2930, reg=0.0380, orth=0.0972, acc=0.9375
+====iteration_31000: fit=0.1935, reg=0.0380, orth=0.0972, acc=0.9453
+++++iteration_31000: test acc=0.8593
+====iteration_31100: fit=0.1742, reg=0.0379, orth=0.0948, acc=0.9688
+====iteration_31200: fit=0.1342, reg=0.0378, orth=0.0954, acc=0.9844
+====iteration_31300: fit=0.1860, reg=0.0378, orth=0.0940, acc=0.9688
+====iteration_31400: fit=0.1433, reg=0.0377, orth=0.0953, acc=0.9766
+====iteration_31500: fit=0.2287, reg=0.0377, orth=0.0946, acc=0.9375
+++++iteration_31500: test acc=0.8604
+====iteration_31600: fit=0.1957, reg=0.0377, orth=0.0947, acc=0.9688
+====iteration_31700: fit=0.1200, reg=0.0377, orth=0.0969, acc=0.9922
+====iteration_31800: fit=0.2057, reg=0.0377, orth=0.0994, acc=0.9531
+====iteration_31900: fit=0.2366, reg=0.0376, orth=0.0983, acc=0.9453
+====iteration_32000: fit=0.1232, reg=0.0375, orth=0.0971, acc=0.9922
+++++iteration_32000: test acc=0.8638
+====iteration_32100: fit=0.2334, reg=0.0373, orth=0.0967, acc=0.9453
+====iteration_32200: fit=0.1657, reg=0.0373, orth=0.0963, acc=0.9766
+====iteration_32300: fit=0.3033, reg=0.0372, orth=0.0980, acc=0.9375
+====iteration_32400: fit=0.0994, reg=0.0372, orth=0.0955, acc=1.0000
+====iteration_32500: fit=0.2731, reg=0.0371, orth=0.0954, acc=0.9297
+++++iteration_32500: test acc=0.8296
+====iteration_32600: fit=0.2059, reg=0.0372, orth=0.0960, acc=0.9453
+====iteration_32700: fit=0.1554, reg=0.0371, orth=0.0940, acc=0.9766
+====iteration_32800: fit=0.1989, reg=0.0370, orth=0.0950, acc=0.9531
+====iteration_32900: fit=0.2568, reg=0.0371, orth=0.0948, acc=0.9531
+====iteration_33000: fit=0.1362, reg=0.0369, orth=0.0951, acc=0.9844
+++++iteration_33000: test acc=0.8701
+====iteration_33100: fit=0.1741, reg=0.0370, orth=0.0947, acc=0.9688
+====iteration_33200: fit=0.1581, reg=0.0370, orth=0.0951, acc=0.9766
+====iteration_33300: fit=0.2964, reg=0.0370, orth=0.0930, acc=0.9375
+====iteration_33400: fit=0.1710, reg=0.0369, orth=0.0945, acc=0.9531
+====iteration_33500: fit=0.1484, reg=0.0367, orth=0.0971, acc=0.9844
+++++iteration_33500: test acc=0.8573
+====iteration_33600: fit=0.1784, reg=0.0367, orth=0.0954, acc=0.9531
+====iteration_33700: fit=0.1654, reg=0.0367, orth=0.0933, acc=0.9609
+====iteration_33800: fit=0.1543, reg=0.0365, orth=0.0967, acc=0.9766
+====iteration_33900: fit=0.1721, reg=0.0365, orth=0.0967, acc=0.9453
+====iteration_34000: fit=0.1170, reg=0.0366, orth=0.0943, acc=1.0000
+++++iteration_34000: test acc=0.8692
+====iteration_34100: fit=0.1460, reg=0.0366, orth=0.0921, acc=0.9766
+====iteration_34200: fit=0.1355, reg=0.0366, orth=0.0900, acc=0.9922
+====iteration_34300: fit=0.1004, reg=0.0366, orth=0.0880, acc=0.9922
+====iteration_34400: fit=0.1205, reg=0.0366, orth=0.0860, acc=1.0000
+====iteration_34500: fit=0.1269, reg=0.0366, orth=0.0842, acc=0.9766
+++++iteration_34500: test acc=0.9078
+====iteration_34600: fit=0.0992, reg=0.0366, orth=0.0823, acc=0.9922
+====iteration_34700: fit=0.1109, reg=0.0366, orth=0.0805, acc=0.9922
+====iteration_34800: fit=0.0961, reg=0.0367, orth=0.0787, acc=1.0000
+====iteration_34900: fit=0.0886, reg=0.0367, orth=0.0769, acc=0.9922
+====iteration_35000: fit=0.0881, reg=0.0367, orth=0.0751, acc=1.0000
+++++iteration_35000: test acc=0.9111
+====iteration_35100: fit=0.0880, reg=0.0366, orth=0.0734, acc=1.0000
+====iteration_35200: fit=0.0817, reg=0.0366, orth=0.0717, acc=1.0000
+====iteration_35300: fit=0.0899, reg=0.0366, orth=0.0700, acc=1.0000
+====iteration_35400: fit=0.1199, reg=0.0366, orth=0.0683, acc=0.9922
+====iteration_35500: fit=0.0796, reg=0.0366, orth=0.0666, acc=1.0000
+++++iteration_35500: test acc=0.9128
+====iteration_35600: fit=0.0901, reg=0.0366, orth=0.0649, acc=1.0000
+====iteration_35700: fit=0.0803, reg=0.0366, orth=0.0633, acc=1.0000
+====iteration_35800: fit=0.1294, reg=0.0366, orth=0.0617, acc=0.9922
+====iteration_35900: fit=0.0815, reg=0.0365, orth=0.0601, acc=1.0000
+====iteration_36000: fit=0.0814, reg=0.0365, orth=0.0585, acc=1.0000
+++++iteration_36000: test acc=0.9131
+====iteration_36100: fit=0.0798, reg=0.0365, orth=0.0569, acc=1.0000
+====iteration_36200: fit=0.0834, reg=0.0364, orth=0.0554, acc=1.0000
+====iteration_36300: fit=0.0815, reg=0.0364, orth=0.0538, acc=1.0000
+====iteration_36400: fit=0.0767, reg=0.0364, orth=0.0523, acc=1.0000
+====iteration_36500: fit=0.0772, reg=0.0363, orth=0.0509, acc=1.0000
+++++iteration_36500: test acc=0.9152
+====iteration_36600: fit=0.0751, reg=0.0363, orth=0.0494, acc=1.0000
+====iteration_36700: fit=0.0783, reg=0.0362, orth=0.0480, acc=1.0000
+====iteration_36800: fit=0.0778, reg=0.0362, orth=0.0466, acc=1.0000
+====iteration_36900: fit=0.0763, reg=0.0361, orth=0.0453, acc=1.0000
+====iteration_37000: fit=0.0754, reg=0.0360, orth=0.0439, acc=1.0000
+++++iteration_37000: test acc=0.9157
+====iteration_37100: fit=0.0779, reg=0.0360, orth=0.0426, acc=1.0000
+====iteration_37200: fit=0.0803, reg=0.0359, orth=0.0413, acc=1.0000
+====iteration_37300: fit=0.0783, reg=0.0358, orth=0.0401, acc=1.0000
+====iteration_37400: fit=0.0785, reg=0.0358, orth=0.0389, acc=1.0000
+====iteration_37500: fit=0.0761, reg=0.0357, orth=0.0377, acc=1.0000
+++++iteration_37500: test acc=0.9127
+====iteration_37600: fit=0.0799, reg=0.0356, orth=0.0366, acc=1.0000
+====iteration_37700: fit=0.0748, reg=0.0355, orth=0.0354, acc=1.0000
+====iteration_37800: fit=0.0775, reg=0.0355, orth=0.0344, acc=1.0000
+====iteration_37900: fit=0.0822, reg=0.0354, orth=0.0333, acc=1.0000
+====iteration_38000: fit=0.0751, reg=0.0353, orth=0.0323, acc=1.0000
+++++iteration_38000: test acc=0.9127
+====iteration_38100: fit=0.0815, reg=0.0352, orth=0.0314, acc=1.0000
+====iteration_38200: fit=0.0752, reg=0.0351, orth=0.0304, acc=1.0000
+====iteration_38300: fit=0.0837, reg=0.0350, orth=0.0295, acc=1.0000
+====iteration_38400: fit=0.0780, reg=0.0350, orth=0.0286, acc=1.0000
+====iteration_38500: fit=0.0745, reg=0.0349, orth=0.0278, acc=1.0000
+++++iteration_38500: test acc=0.9154
+====iteration_38600: fit=0.0746, reg=0.0348, orth=0.0270, acc=1.0000
+====iteration_38700: fit=0.0737, reg=0.0347, orth=0.0262, acc=1.0000
+====iteration_38800: fit=0.0792, reg=0.0346, orth=0.0254, acc=1.0000
+====iteration_38900: fit=0.0737, reg=0.0345, orth=0.0247, acc=1.0000
+====iteration_39000: fit=0.0773, reg=0.0344, orth=0.0240, acc=1.0000
+++++iteration_39000: test acc=0.9151
+====iteration_39100: fit=0.0740, reg=0.0343, orth=0.0233, acc=1.0000
+====iteration_39200: fit=0.0750, reg=0.0342, orth=0.0227, acc=1.0000
+====iteration_39300: fit=0.0755, reg=0.0341, orth=0.0222, acc=1.0000
+====iteration_39400: fit=0.0749, reg=0.0340, orth=0.0216, acc=1.0000
+====iteration_39500: fit=0.0762, reg=0.0339, orth=0.0211, acc=1.0000
+++++iteration_39500: test acc=0.9151
+====iteration_39600: fit=0.0786, reg=0.0338, orth=0.0206, acc=1.0000
+====iteration_39700: fit=0.0742, reg=0.0337, orth=0.0202, acc=1.0000
+====iteration_39800: fit=0.0739, reg=0.0337, orth=0.0197, acc=1.0000
+====iteration_39900: fit=0.0743, reg=0.0336, orth=0.0194, acc=1.0000
+====iteration_40000: fit=0.0748, reg=0.0335, orth=0.0191, acc=1.0000
+++++iteration_40000: test acc=0.9140
+====iteration_40100: fit=0.0736, reg=0.0334, orth=0.0187, acc=1.0000
+====iteration_40200: fit=0.0771, reg=0.0333, orth=0.0183, acc=1.0000
+====iteration_40300: fit=0.0759, reg=0.0333, orth=0.0181, acc=1.0000
+====iteration_40400: fit=0.0757, reg=0.0332, orth=0.0178, acc=1.0000
+====iteration_40500: fit=0.0742, reg=0.0331, orth=0.0176, acc=1.0000
+++++iteration_40500: test acc=0.9125
+====iteration_40600: fit=0.0736, reg=0.0330, orth=0.0174, acc=1.0000
+====iteration_40700: fit=0.0743, reg=0.0330, orth=0.0172, acc=1.0000
+====iteration_40800: fit=0.0732, reg=0.0329, orth=0.0170, acc=1.0000
+====iteration_40900: fit=0.0732, reg=0.0328, orth=0.0168, acc=1.0000
+====iteration_41000: fit=0.0747, reg=0.0328, orth=0.0166, acc=1.0000
+++++iteration_41000: test acc=0.9165
+====iteration_41100: fit=0.0740, reg=0.0327, orth=0.0164, acc=1.0000
+====iteration_41200: fit=0.0732, reg=0.0326, orth=0.0162, acc=1.0000
+====iteration_41300: fit=0.0762, reg=0.0326, orth=0.0161, acc=1.0000
+====iteration_41400: fit=0.0774, reg=0.0325, orth=0.0160, acc=1.0000
+====iteration_41500: fit=0.0829, reg=0.0325, orth=0.0159, acc=0.9922
+++++iteration_41500: test acc=0.9139
+====iteration_41600: fit=0.0745, reg=0.0324, orth=0.0158, acc=1.0000
+====iteration_41700: fit=0.0749, reg=0.0324, orth=0.0157, acc=1.0000
+====iteration_41800: fit=0.0737, reg=0.0323, orth=0.0155, acc=1.0000
+====iteration_41900: fit=0.0740, reg=0.0323, orth=0.0154, acc=1.0000
+====iteration_42000: fit=0.0731, reg=0.0322, orth=0.0152, acc=1.0000
+++++iteration_42000: test acc=0.9126
+====iteration_42100: fit=0.0726, reg=0.0321, orth=0.0151, acc=1.0000
+====iteration_42200: fit=0.0758, reg=0.0320, orth=0.0150, acc=1.0000
+====iteration_42300: fit=0.0755, reg=0.0320, orth=0.0149, acc=1.0000
+====iteration_42400: fit=0.0732, reg=0.0319, orth=0.0148, acc=1.0000
+====iteration_42500: fit=0.0794, reg=0.0319, orth=0.0147, acc=1.0000
+++++iteration_42500: test acc=0.9126
+====iteration_42600: fit=0.0728, reg=0.0319, orth=0.0146, acc=1.0000
+====iteration_42700: fit=0.0753, reg=0.0318, orth=0.0145, acc=1.0000
+====iteration_42800: fit=0.0720, reg=0.0318, orth=0.0145, acc=1.0000
+====iteration_42900: fit=0.0739, reg=0.0317, orth=0.0144, acc=1.0000
+====iteration_43000: fit=0.0732, reg=0.0317, orth=0.0143, acc=1.0000
+++++iteration_43000: test acc=0.9157
+====iteration_43100: fit=0.0726, reg=0.0316, orth=0.0142, acc=1.0000
+====iteration_43200: fit=0.0726, reg=0.0316, orth=0.0142, acc=1.0000
+====iteration_43300: fit=0.0722, reg=0.0315, orth=0.0141, acc=1.0000
+====iteration_43400: fit=0.0731, reg=0.0314, orth=0.0140, acc=1.0000
+====iteration_43500: fit=0.0740, reg=0.0314, orth=0.0140, acc=1.0000
+++++iteration_43500: test acc=0.9059
+====iteration_43600: fit=0.0731, reg=0.0314, orth=0.0139, acc=1.0000
+====iteration_43700: fit=0.0719, reg=0.0313, orth=0.0138, acc=1.0000
+====iteration_43800: fit=0.0753, reg=0.0313, orth=0.0138, acc=1.0000
+====iteration_43900: fit=0.0728, reg=0.0312, orth=0.0137, acc=1.0000
+====iteration_44000: fit=0.0726, reg=0.0312, orth=0.0136, acc=1.0000
+++++iteration_44000: test acc=0.9119
+====iteration_44100: fit=0.0749, reg=0.0311, orth=0.0135, acc=1.0000
+====iteration_44200: fit=0.0725, reg=0.0311, orth=0.0135, acc=1.0000
+====iteration_44300: fit=0.0730, reg=0.0310, orth=0.0134, acc=1.0000
+====iteration_44400: fit=0.0719, reg=0.0310, orth=0.0134, acc=1.0000
+====iteration_44500: fit=0.0732, reg=0.0309, orth=0.0134, acc=1.0000
+++++iteration_44500: test acc=0.9059
+====iteration_44600: fit=0.0800, reg=0.0309, orth=0.0133, acc=0.9922
+====iteration_44700: fit=0.0722, reg=0.0309, orth=0.0133, acc=1.0000
+====iteration_44800: fit=0.0834, reg=0.0308, orth=0.0133, acc=1.0000
+====iteration_44900: fit=0.0718, reg=0.0308, orth=0.0132, acc=1.0000
+====iteration_45000: fit=0.0725, reg=0.0308, orth=0.0132, acc=1.0000
+++++iteration_45000: test acc=0.9063
+====iteration_45100: fit=0.0745, reg=0.0307, orth=0.0132, acc=1.0000
+====iteration_45200: fit=0.0731, reg=0.0307, orth=0.0131, acc=1.0000
+====iteration_45300: fit=0.0731, reg=0.0306, orth=0.0131, acc=1.0000
+====iteration_45400: fit=0.0733, reg=0.0306, orth=0.0130, acc=1.0000
+====iteration_45500: fit=0.0748, reg=0.0305, orth=0.0130, acc=1.0000
+++++iteration_45500: test acc=0.9057
+====iteration_45600: fit=0.0737, reg=0.0305, orth=0.0131, acc=1.0000
+====iteration_45700: fit=0.0733, reg=0.0305, orth=0.0130, acc=1.0000
+====iteration_45800: fit=0.0738, reg=0.0305, orth=0.0130, acc=1.0000
+====iteration_45900: fit=0.0722, reg=0.0304, orth=0.0130, acc=1.0000
+====iteration_46000: fit=0.0742, reg=0.0304, orth=0.0130, acc=1.0000
+++++iteration_46000: test acc=0.9061
+====iteration_46100: fit=0.0724, reg=0.0303, orth=0.0129, acc=1.0000
+====iteration_46200: fit=0.0721, reg=0.0303, orth=0.0128, acc=1.0000
+====iteration_46300: fit=0.0739, reg=0.0302, orth=0.0128, acc=1.0000
+====iteration_46400: fit=0.0728, reg=0.0302, orth=0.0127, acc=1.0000
+====iteration_46500: fit=0.0725, reg=0.0301, orth=0.0127, acc=1.0000
+++++iteration_46500: test acc=0.9089
+====iteration_46600: fit=0.0723, reg=0.0301, orth=0.0126, acc=1.0000
+====iteration_46700: fit=0.0720, reg=0.0301, orth=0.0126, acc=1.0000
+====iteration_46800: fit=0.0719, reg=0.0300, orth=0.0125, acc=1.0000
+====iteration_46900: fit=0.0718, reg=0.0300, orth=0.0125, acc=1.0000
+====iteration_47000: fit=0.0718, reg=0.0299, orth=0.0124, acc=1.0000
+++++iteration_47000: test acc=0.9137
+====iteration_47100: fit=0.0725, reg=0.0298, orth=0.0123, acc=1.0000
+====iteration_47200: fit=0.0724, reg=0.0298, orth=0.0123, acc=1.0000
+====iteration_47300: fit=0.0720, reg=0.0297, orth=0.0122, acc=1.0000
+====iteration_47400: fit=0.0713, reg=0.0297, orth=0.0122, acc=1.0000
+====iteration_47500: fit=0.0717, reg=0.0296, orth=0.0121, acc=1.0000
+++++iteration_47500: test acc=0.9126
+====iteration_47600: fit=0.0724, reg=0.0296, orth=0.0120, acc=1.0000
+====iteration_47700: fit=0.0727, reg=0.0295, orth=0.0120, acc=1.0000
+====iteration_47800: fit=0.0720, reg=0.0295, orth=0.0120, acc=1.0000
+====iteration_47900: fit=0.0722, reg=0.0294, orth=0.0119, acc=1.0000
+====iteration_48000: fit=0.0732, reg=0.0294, orth=0.0119, acc=1.0000
+++++iteration_48000: test acc=0.9095
+====iteration_48100: fit=0.0719, reg=0.0293, orth=0.0119, acc=1.0000
+====iteration_48200: fit=0.0728, reg=0.0292, orth=0.0118, acc=1.0000
+====iteration_48300: fit=0.0720, reg=0.0292, orth=0.0118, acc=1.0000
+====iteration_48400: fit=0.0716, reg=0.0291, orth=0.0117, acc=1.0000
+====iteration_48500: fit=0.0728, reg=0.0291, orth=0.0117, acc=1.0000
+++++iteration_48500: test acc=0.9049
+====iteration_48600: fit=0.0721, reg=0.0290, orth=0.0117, acc=1.0000
+====iteration_48700: fit=0.0730, reg=0.0290, orth=0.0117, acc=1.0000
+====iteration_48800: fit=0.0730, reg=0.0290, orth=0.0118, acc=1.0000
+====iteration_48900: fit=0.0717, reg=0.0289, orth=0.0118, acc=1.0000
+====iteration_49000: fit=0.0738, reg=0.0289, orth=0.0119, acc=1.0000
+++++iteration_49000: test acc=0.9040
+====iteration_49100: fit=0.0744, reg=0.0289, orth=0.0120, acc=1.0000
+====iteration_49200: fit=0.0725, reg=0.0289, orth=0.0120, acc=1.0000
+====iteration_49300: fit=0.0921, reg=0.0289, orth=0.0121, acc=0.9844
+====iteration_49400: fit=0.0741, reg=0.0289, orth=0.0121, acc=1.0000
+====iteration_49500: fit=0.0800, reg=0.0289, orth=0.0122, acc=1.0000
+++++iteration_49500: test acc=0.9034
+====iteration_49600: fit=0.0737, reg=0.0289, orth=0.0122, acc=1.0000
+====iteration_49700: fit=0.0718, reg=0.0289, orth=0.0122, acc=1.0000
+====iteration_49800: fit=0.0736, reg=0.0289, orth=0.0122, acc=1.0000
+====iteration_49900: fit=0.0714, reg=0.0288, orth=0.0121, acc=1.0000
+====iteration_50000: fit=0.0732, reg=0.0288, orth=0.0121, acc=1.0000
+++++iteration_50000: test acc=0.9051
+====iteration_50100: fit=0.0720, reg=0.0287, orth=0.0121, acc=1.0000
+====iteration_50200: fit=0.0731, reg=0.0287, orth=0.0121, acc=1.0000
+====iteration_50300: fit=0.0717, reg=0.0287, orth=0.0121, acc=1.0000
+====iteration_50400: fit=0.0728, reg=0.0287, orth=0.0121, acc=1.0000
+====iteration_50500: fit=0.0768, reg=0.0286, orth=0.0120, acc=1.0000
+++++iteration_50500: test acc=0.9108
+====iteration_50600: fit=0.0721, reg=0.0286, orth=0.0120, acc=1.0000
+====iteration_50700: fit=0.0725, reg=0.0285, orth=0.0119, acc=1.0000
+====iteration_50800: fit=0.0715, reg=0.0285, orth=0.0119, acc=1.0000
+====iteration_50900: fit=0.0719, reg=0.0285, orth=0.0119, acc=1.0000
+====iteration_51000: fit=0.0722, reg=0.0284, orth=0.0119, acc=1.0000
+++++iteration_51000: test acc=0.9111
+====iteration_51100: fit=0.0720, reg=0.0284, orth=0.0119, acc=1.0000
+====iteration_51200: fit=0.0753, reg=0.0284, orth=0.0118, acc=1.0000
+====iteration_51300: fit=0.0721, reg=0.0284, orth=0.0118, acc=1.0000
+====iteration_51400: fit=0.0747, reg=0.0283, orth=0.0118, acc=1.0000
+====iteration_51500: fit=0.0716, reg=0.0283, orth=0.0117, acc=1.0000
+++++iteration_51500: test acc=0.9115
+====iteration_51600: fit=0.0716, reg=0.0282, orth=0.0117, acc=1.0000
+====iteration_51700: fit=0.0733, reg=0.0282, orth=0.0117, acc=1.0000
+====iteration_51800: fit=0.0729, reg=0.0281, orth=0.0116, acc=1.0000
+====iteration_51900: fit=0.0715, reg=0.0281, orth=0.0116, acc=1.0000
+====iteration_52000: fit=0.0843, reg=0.0281, orth=0.0117, acc=0.9922
+++++iteration_52000: test acc=0.9023
+====iteration_52100: fit=0.0731, reg=0.0281, orth=0.0117, acc=1.0000
+====iteration_52200: fit=0.0723, reg=0.0281, orth=0.0117, acc=1.0000
+====iteration_52300: fit=0.0735, reg=0.0281, orth=0.0118, acc=1.0000
+====iteration_52400: fit=0.0731, reg=0.0281, orth=0.0118, acc=1.0000
+====iteration_52500: fit=0.0719, reg=0.0280, orth=0.0118, acc=1.0000
+++++iteration_52500: test acc=0.9039
+====iteration_52600: fit=0.0716, reg=0.0280, orth=0.0118, acc=1.0000
+====iteration_52700: fit=0.0720, reg=0.0280, orth=0.0118, acc=1.0000
+====iteration_52800: fit=0.0721, reg=0.0279, orth=0.0117, acc=1.0000
+====iteration_52900: fit=0.0712, reg=0.0279, orth=0.0117, acc=1.0000
+====iteration_53000: fit=0.0727, reg=0.0279, orth=0.0116, acc=1.0000
+++++iteration_53000: test acc=0.9065
+====iteration_53100: fit=0.0719, reg=0.0278, orth=0.0116, acc=1.0000
+====iteration_53200: fit=0.0727, reg=0.0278, orth=0.0116, acc=1.0000
+====iteration_53300: fit=0.0726, reg=0.0278, orth=0.0116, acc=1.0000
+====iteration_53400: fit=0.0721, reg=0.0278, orth=0.0116, acc=1.0000
+====iteration_53500: fit=0.0735, reg=0.0277, orth=0.0115, acc=1.0000
+++++iteration_53500: test acc=0.9080
+====iteration_53600: fit=0.0714, reg=0.0277, orth=0.0115, acc=1.0000
+====iteration_53700: fit=0.0716, reg=0.0276, orth=0.0115, acc=1.0000
+====iteration_53800: fit=0.0720, reg=0.0276, orth=0.0115, acc=1.0000
+====iteration_53900: fit=0.0732, reg=0.0276, orth=0.0115, acc=1.0000
+====iteration_54000: fit=0.0726, reg=0.0275, orth=0.0114, acc=1.0000
+++++iteration_54000: test acc=0.9094
+====iteration_54100: fit=0.0719, reg=0.0275, orth=0.0114, acc=1.0000
+====iteration_54200: fit=0.0724, reg=0.0275, orth=0.0114, acc=1.0000
+====iteration_54300: fit=0.0722, reg=0.0275, orth=0.0114, acc=1.0000
+====iteration_54400: fit=0.0710, reg=0.0275, orth=0.0114, acc=1.0000
+====iteration_54500: fit=0.0721, reg=0.0275, orth=0.0114, acc=1.0000
+++++iteration_54500: test acc=0.9108
+====iteration_54600: fit=0.0724, reg=0.0275, orth=0.0114, acc=1.0000
+====iteration_54700: fit=0.0709, reg=0.0275, orth=0.0114, acc=1.0000
+====iteration_54800: fit=0.0718, reg=0.0275, orth=0.0114, acc=1.0000
+====iteration_54900: fit=0.0718, reg=0.0275, orth=0.0114, acc=1.0000
+====iteration_55000: fit=0.0716, reg=0.0275, orth=0.0114, acc=1.0000
+++++iteration_55000: test acc=0.9119
+====iteration_55100: fit=0.0720, reg=0.0275, orth=0.0114, acc=1.0000
+====iteration_55200: fit=0.0710, reg=0.0275, orth=0.0114, acc=1.0000
+====iteration_55300: fit=0.0713, reg=0.0275, orth=0.0114, acc=1.0000
+====iteration_55400: fit=0.0726, reg=0.0274, orth=0.0113, acc=1.0000
+====iteration_55500: fit=0.0714, reg=0.0274, orth=0.0113, acc=1.0000
+++++iteration_55500: test acc=0.9123
+====iteration_55600: fit=0.0712, reg=0.0274, orth=0.0113, acc=1.0000
+====iteration_55700: fit=0.0712, reg=0.0274, orth=0.0113, acc=1.0000
+====iteration_55800: fit=0.0718, reg=0.0274, orth=0.0113, acc=1.0000
+====iteration_55900: fit=0.0721, reg=0.0274, orth=0.0113, acc=1.0000
+====iteration_56000: fit=0.0716, reg=0.0274, orth=0.0113, acc=1.0000
+++++iteration_56000: test acc=0.9125
+====iteration_56100: fit=0.0713, reg=0.0274, orth=0.0113, acc=1.0000
+====iteration_56200: fit=0.0716, reg=0.0274, orth=0.0113, acc=1.0000
+====iteration_56300: fit=0.0718, reg=0.0274, orth=0.0113, acc=1.0000
+====iteration_56400: fit=0.0734, reg=0.0274, orth=0.0113, acc=1.0000
+====iteration_56500: fit=0.0714, reg=0.0273, orth=0.0113, acc=1.0000
+++++iteration_56500: test acc=0.9117
+====iteration_56600: fit=0.0716, reg=0.0273, orth=0.0113, acc=1.0000
+====iteration_56700: fit=0.0709, reg=0.0273, orth=0.0113, acc=1.0000
+====iteration_56800: fit=0.0712, reg=0.0273, orth=0.0112, acc=1.0000
+====iteration_56900: fit=0.0716, reg=0.0273, orth=0.0112, acc=1.0000
+====iteration_57000: fit=0.0716, reg=0.0273, orth=0.0112, acc=1.0000
+++++iteration_57000: test acc=0.9126
+====iteration_57100: fit=0.0718, reg=0.0273, orth=0.0112, acc=1.0000
+====iteration_57200: fit=0.0711, reg=0.0273, orth=0.0112, acc=1.0000
+====iteration_57300: fit=0.0712, reg=0.0273, orth=0.0112, acc=1.0000
+====iteration_57400: fit=0.0713, reg=0.0273, orth=0.0112, acc=1.0000
+====iteration_57500: fit=0.0711, reg=0.0272, orth=0.0112, acc=1.0000
+++++iteration_57500: test acc=0.9125
+====iteration_57600: fit=0.0717, reg=0.0272, orth=0.0112, acc=1.0000
+====iteration_57700: fit=0.0711, reg=0.0272, orth=0.0112, acc=1.0000
+====iteration_57800: fit=0.0711, reg=0.0272, orth=0.0112, acc=1.0000
+====iteration_57900: fit=0.0715, reg=0.0272, orth=0.0111, acc=1.0000
+====iteration_58000: fit=0.0714, reg=0.0272, orth=0.0111, acc=1.0000
+++++iteration_58000: test acc=0.9135
+====iteration_58100: fit=0.0712, reg=0.0272, orth=0.0111, acc=1.0000
+====iteration_58200: fit=0.0717, reg=0.0271, orth=0.0111, acc=1.0000
+====iteration_58300: fit=0.0724, reg=0.0271, orth=0.0111, acc=1.0000
+====iteration_58400: fit=0.0711, reg=0.0271, orth=0.0111, acc=1.0000
+====iteration_58500: fit=0.0714, reg=0.0271, orth=0.0111, acc=1.0000
+++++iteration_58500: test acc=0.9133
+====iteration_58600: fit=0.0710, reg=0.0271, orth=0.0111, acc=1.0000
+====iteration_58700: fit=0.0711, reg=0.0271, orth=0.0111, acc=1.0000
+====iteration_58800: fit=0.0709, reg=0.0271, orth=0.0110, acc=1.0000
+====iteration_58900: fit=0.0712, reg=0.0270, orth=0.0110, acc=1.0000
+====iteration_59000: fit=0.0717, reg=0.0270, orth=0.0110, acc=1.0000
+++++iteration_59000: test acc=0.9123
+====iteration_59100: fit=0.0718, reg=0.0270, orth=0.0110, acc=1.0000
+====iteration_59200: fit=0.0714, reg=0.0270, orth=0.0110, acc=1.0000
+====iteration_59300: fit=0.0716, reg=0.0270, orth=0.0110, acc=1.0000
+====iteration_59400: fit=0.0714, reg=0.0269, orth=0.0110, acc=1.0000
+====iteration_59500: fit=0.0720, reg=0.0269, orth=0.0110, acc=1.0000
+++++iteration_59500: test acc=0.9128
+====iteration_59600: fit=0.0714, reg=0.0269, orth=0.0110, acc=1.0000
+====iteration_59700: fit=0.0710, reg=0.0269, orth=0.0109, acc=1.0000
+====iteration_59800: fit=0.0710, reg=0.0269, orth=0.0109, acc=1.0000
+====iteration_59900: fit=0.0711, reg=0.0268, orth=0.0109, acc=1.0000
+====iteration_60000: fit=0.0712, reg=0.0268, orth=0.0109, acc=1.0000
+++++iteration_60000: test acc=0.9125
+====iteration_60100: fit=0.0710, reg=0.0268, orth=0.0109, acc=1.0000
+====iteration_60200: fit=0.0715, reg=0.0268, orth=0.0109, acc=1.0000
+====iteration_60300: fit=0.0714, reg=0.0268, orth=0.0109, acc=1.0000
+====iteration_60400: fit=0.0710, reg=0.0267, orth=0.0109, acc=1.0000
+====iteration_60500: fit=0.0717, reg=0.0267, orth=0.0109, acc=1.0000
+++++iteration_60500: test acc=0.9113
+====iteration_60600: fit=0.0711, reg=0.0267, orth=0.0108, acc=1.0000
+====iteration_60700: fit=0.0712, reg=0.0267, orth=0.0108, acc=1.0000
+====iteration_60800: fit=0.0715, reg=0.0266, orth=0.0108, acc=1.0000
+====iteration_60900: fit=0.0711, reg=0.0266, orth=0.0108, acc=1.0000
+====iteration_61000: fit=0.0709, reg=0.0266, orth=0.0108, acc=1.0000
+++++iteration_61000: test acc=0.9128
+====iteration_61100: fit=0.0716, reg=0.0266, orth=0.0108, acc=1.0000
+====iteration_61200: fit=0.0713, reg=0.0265, orth=0.0108, acc=1.0000
+====iteration_61300: fit=0.0712, reg=0.0265, orth=0.0108, acc=1.0000
+====iteration_61400: fit=0.0714, reg=0.0265, orth=0.0108, acc=1.0000
+====iteration_61500: fit=0.0719, reg=0.0265, orth=0.0107, acc=1.0000
+++++iteration_61500: test acc=0.9113
+====iteration_61600: fit=0.0711, reg=0.0264, orth=0.0107, acc=1.0000
+====iteration_61700: fit=0.0710, reg=0.0264, orth=0.0107, acc=1.0000
+====iteration_61800: fit=0.0710, reg=0.0264, orth=0.0107, acc=1.0000
+====iteration_61900: fit=0.0711, reg=0.0264, orth=0.0107, acc=1.0000
+====iteration_62000: fit=0.0712, reg=0.0263, orth=0.0107, acc=1.0000
+++++iteration_62000: test acc=0.9111
+====iteration_62100: fit=0.0713, reg=0.0263, orth=0.0107, acc=1.0000
+====iteration_62200: fit=0.0713, reg=0.0263, orth=0.0107, acc=1.0000
+====iteration_62300: fit=0.0712, reg=0.0263, orth=0.0107, acc=1.0000
+====iteration_62400: fit=0.0710, reg=0.0262, orth=0.0107, acc=1.0000
+====iteration_62500: fit=0.0715, reg=0.0262, orth=0.0107, acc=1.0000
+++++iteration_62500: test acc=0.9115
+====iteration_62600: fit=0.0713, reg=0.0262, orth=0.0107, acc=1.0000
+====iteration_62700: fit=0.0711, reg=0.0261, orth=0.0106, acc=1.0000
+====iteration_62800: fit=0.0712, reg=0.0261, orth=0.0106, acc=1.0000
+====iteration_62900: fit=0.0717, reg=0.0261, orth=0.0106, acc=1.0000
+====iteration_63000: fit=0.0715, reg=0.0261, orth=0.0106, acc=1.0000
+++++iteration_63000: test acc=0.9117
+====iteration_63100: fit=0.0714, reg=0.0260, orth=0.0106, acc=1.0000
+====iteration_63200: fit=0.0715, reg=0.0260, orth=0.0106, acc=1.0000
+====iteration_63300: fit=0.0708, reg=0.0260, orth=0.0106, acc=1.0000
+====iteration_63400: fit=0.0714, reg=0.0259, orth=0.0106, acc=1.0000
+====iteration_63500: fit=0.0709, reg=0.0259, orth=0.0106, acc=1.0000
+++++iteration_63500: test acc=0.9118
+====iteration_63600: fit=0.0708, reg=0.0259, orth=0.0106, acc=1.0000
+====iteration_63700: fit=0.0710, reg=0.0258, orth=0.0106, acc=1.0000
+====iteration_63800: fit=0.0717, reg=0.0258, orth=0.0106, acc=1.0000
+====iteration_63900: fit=0.0716, reg=0.0258, orth=0.0105, acc=1.0000
+====iteration_64000: fit=0.0710, reg=0.0257, orth=0.0105, acc=1.0000
+++++iteration_64000: test acc=0.9116
