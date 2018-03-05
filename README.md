@@ -32,7 +32,7 @@ Hyperspherical learning is inspired by an interesting obvervation of the 2D Four
 
 The features learned by SphereNets are also very interesting. The 2D features of SphereNets learned on MNIST are more compact and have larger margin between classes. From the image below, we can see that local behavior of convolutions could lead to dramatic difference in final features, even if they are supervised by the same standard softmax loss. *Hypersphereical learning provides a new perspective to think about convolutions and deep feature learning.*
 
-<img src="asserts/mnist_featvis.jpg" width="51%" height="51%">
+<img src="asserts/MNIST_featvis.jpg" width="51%" height="51%">
 
 Besides, the hyperspherical learning also leads to a well-performing normalization technique, SphereNorm. SphereNorm basically can be viewed as SphereConv operator in our implementation.
 
@@ -113,7 +113,7 @@ The convergence curves for baseline CNN and several types of SphereNets are give
 
 #### Part 3: Training log
 
-- Baseline: [here](baseline_training.log)    
+- Baseline: [here](results/baseline_training.log)
 - SphereNet with cosine SphereConv and standard softmax loss: [here](results/spherenet_cos_standard_training.log).
 - SphereNet with linear SphereConv and standard softmax loss: [here](results/spherenet_linear_standard_training.log).
 - SphereNet with sigmoid SphereConv and standard softmax loss: [here](results/spherenet_sigmoid_standard_training.log).
@@ -124,6 +124,7 @@ The convergence curves for baseline CNN and several types of SphereNets are give
 - Empirically, SphereNets have more accuracy gain with larger filter number. If the filter number is very small, SphereNets may yield slightly worse accuracy but can still achieve much faster convergence.
 - SphereConv may be useful for RNNs and deep Q-learning where better convergence can help.
 - By adding rescaling factors to SphereConv and make them learnable in order for the SphereNorm to degrade to the original convolution, we present a new normalization technique, SphereNorm. SphereNorm does not contradict with the BatchNorm, and can be used either with or without BatchNorm
+- We also developed an improved SphereNet in our latest CVPR 2018 paper, which works much better than this version. The paper and code will be released soon.
 
 ### Third-party re-implementation
 - TensorFlow: [code](https://github.com/unixpickle/spherenet) by [unixpickle](https://github.com/unixpickle).
@@ -132,4 +133,5 @@ The convergence curves for baseline CNN and several types of SphereNets are give
 ### Contact
 
 - [Weiyang Liu](https://wyliu.com)
+
 
