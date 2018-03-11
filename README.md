@@ -9,7 +9,6 @@ SphereNet is released under the MIT License (refer to the LICENSE file for detai
 ### Code to be Updated
 - [x] SphereNet: a neural network that learns on hyperspheres </li>
 - [ ] SphereResNet: an adaptation of SphereConv to residual networks </li>
-- [ ] Feature visualization on MNIST </li>
 
 ### Contents
 0. [Introduction](#introduction)
