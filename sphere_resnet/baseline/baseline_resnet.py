@@ -159,21 +159,21 @@ class architecture():
 
         #32X32        
         n_out = 96
-        feat = self._conv_layer(feat, ksize, n_out, is_training, name='root', bn=True, relu=True, pad='SAME', norm='linear', reg=False, orth=True)
+        feat = self._conv_layer(feat, ksize, n_out, is_training, name='root', bn=True, relu=True, pad='SAME', norm='none', reg=True, orth=False)
         for i in range(n_layer):
-            feat = self._resnet_unit_v1(feat, ksize, n_out, is_training, name='block1_unit'+str(i), stride=1, norm='linear', reg=False, orth=True)
+            feat = self._resnet_unit_v1(feat, ksize, n_out, is_training, name='block1_unit'+str(i), stride=1, norm='none', reg=True, orth=False)
 
         #16X16
         n_out = 192
-        feat = self._resnet_unit_v1(feat, ksize, n_out, is_training, name='block2_unit0', stride=2, norm='linear', reg=False, orth=True)
+        feat = self._resnet_unit_v1(feat, ksize, n_out, is_training, name='block2_unit0', stride=2, norm='none', reg=True, orth=False)
         for i in range(1, n_layer):
-            feat = self._resnet_unit_v1(feat, ksize, n_out, is_training, name='block2_unit'+str(i), stride=1, norm='linear', reg=False, orth=True)
+            feat = self._resnet_unit_v1(feat, ksize, n_out, is_training, name='block2_unit'+str(i), stride=1, norm='none', reg=True, orth=False)
 
         #8X8
         n_out = 384
-        feat = self._resnet_unit_v1(feat, ksize, n_out, is_training, name='block3_unit0', stride=2, norm='linear', reg=False, orth=True)
+        feat = self._resnet_unit_v1(feat, ksize, n_out, is_training, name='block3_unit0', stride=2, norm='none', reg=True, orth=False)
         for i in range(1, n_layer):
-            feat = self._resnet_unit_v1(feat, ksize, n_out, is_training, name='block3_unit'+str(i), stride=1, norm='linear', reg=False, orth=True)
+            feat = self._resnet_unit_v1(feat, ksize, n_out, is_training, name='block3_unit'+str(i), stride=1, norm='none', reg=True, orth=False)
         
         feat = tf.nn.avg_pool(feat, [1,8,8,1], [1,1,1,1], 'VALID')
         self.score = self._conv_layer(feat, 1, n_class, is_training, "score", bn=False, relu=False, pad='VALID', norm='none', reg=True, orth=False, w_norm=False)

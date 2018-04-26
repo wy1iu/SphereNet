@@ -67,16 +67,38 @@ If you find our work useful in your research, please consider to cite:
 
 #### Part 2: Train Baseline/SphereNets
 
-  - To train the baseline model, please open `baseline/train_baseline.py` and assign an available GPU. The default hyperparameters are exactly the same with SphereNets.
+  - We use '$SPHERENET_ROOT' to denote the directory path of this repository.
+
+  - To train the baseline model, please open `$SPHERENET_ROOT/baseline/train_baseline.py` and assign an available GPU. The default hyperparameters are exactly the same with SphereNets.
 
 	```Shell
-	python baseline/train_baseline.py
+	cd $SPHERENET_ROOT/baseline
+	python train_baseline.py
 	```
 
-  - To train the SphereNet, please open `train_spherenet.py` and assign an available GPU.
+  - To train the SphereNet, please open `$SPHERENET_ROOT/train_spherenet.py` and assign an available GPU.
 
 	```Shell
+	cd $SPHERENET_ROOT
 	python train_spherenet.py
+	```
+
+#### Part 3: Train Baseline/SphereResNets
+
+  - We use '$SPHERENET_ROOT' to denote the directory path of this repository.
+
+  - To train the baseline ResNet-32 model, please open `$SPHERENET_ROOT/sphere_resnet/baseline/train_baseline.py` and assign an available GPU. The default hyperparameters are exactly the same with SphereNets.
+
+	```Shell
+	cd $SPHERENET_ROOT/sphere_resnet/baseline
+	python train_baseline.py
+	```
+
+  - To train the SphereResNet-32 (the default setting is Linear SphereConv with the standard softmax loss), please open `$SPHERENET_ROOT/sphere_resnet/train_sphere_resnet.py` and assign an available GPU.
+
+	```Shell
+	cd $SPHERENET_ROOT/sphere_resnet
+	python train_sphere_resnet.py
 	```
 
 
@@ -98,10 +120,10 @@ There are some examples of setting these two variables provided in the `examples
 #### Part 1: Convergence
 
 The convergence curves for baseline CNN and several types of SphereNets are given as follows.
-<img src="asserts/convergence.jpg" width="51%" height="51%">
+<img src="asserts/convergence.jpg" width="52%" height="52%">
 
 
-#### Part 2: Best testing accuracy on CIFAR-10
+#### Part 2: Best testing accuracy on CIFAR-10 (SphereNet-9)
 
 - Baseline (standard CNN with standard softmax loss): 90.86%
 - SphereNet with cosine SphereConv and standard softmax loss: 91.31%
@@ -110,7 +132,12 @@ The convergence curves for baseline CNN and several types of SphereNets are give
 - SphereNet with learnable sigmoid SphereConv and standard softmax loss: 91.66%
 - SphereNet with cosine SphereConv and weight-normalized softmax loss: 91.44%
 
-#### Part 3: Training log
+#### Part 3: Best testing accuracy on CIFAR-10+ (SphereResNet-32)
+
+- Baseline (standard ResNet-32 with standard softmax loss): 93.09%
+- SphereResNet-32 with linear SphereConv and standard softmax loss: 94.68%
+
+#### Part 4: Training log (SphereNet-9)
 
 - Baseline: [here](results/baseline_training.log)
 - SphereNet with cosine SphereConv and standard softmax loss: [here](results/spherenet_cos_standard_training.log).
@@ -119,11 +146,17 @@ The convergence curves for baseline CNN and several types of SphereNets are give
 - SphereNet with learnable sigmoid SphereConv and standard softmax loss: [here](results/spherenet_lr_sigmoid_standard_training.log).
 - SphereNet with cosine SphereConv and weight-normalized softmax loss: [here](results/spherenet_cos_wnsoftmax_training.log).
 
+#### Part 5: Training log (SphereResNet-32)
+
+- Baseline: [here](sphere_resnet/results/baseline_resnet.log)
+- SphereResNet-32 with linear SphereConv and standard softmax loss: [here](sphere_resnet/results/linear_sphereconv_resnet.log).
+
+
 ### Notes
 - Empirically, SphereNets have more accuracy gain with larger filter number. If the filter number is very small, SphereNets may yield slightly worse accuracy but can still achieve much faster convergence.
 - SphereConv may be useful for RNNs and deep Q-learning where better convergence can help.
 - By adding rescaling factors to SphereConv and make them learnable in order for the SphereNorm to degrade to the original convolution, we present a new normalization technique, SphereNorm. SphereNorm does not contradict with the BatchNorm, and can be used either with or without BatchNorm
-- We also developed an improved SphereNet in our latest CVPR 2018 paper, which works much better than this version. The paper and code will be released soon.
+- We also developed an improved SphereNet in [our latest CVPR 2018 paper](http://wyliu.com/papers/LiuCVPR18_DCNets.pdf), which works better than this version. The paper and code will be released soon.
 
 ### Third-party re-implementation
 - TensorFlow: [code](https://github.com/unixpickle/spherenet) by [unixpickle](https://github.com/unixpickle).
