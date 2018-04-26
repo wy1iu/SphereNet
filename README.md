@@ -6,9 +6,9 @@ By Weiyang Liu, Yan-Ming Zhang, Xingguo Li, Zhiding Yu, Bo Dai, Tuo Zhao, Le Son
 
 SphereNet is released under the MIT License (refer to the LICENSE file for details).
 
-### Code to be Updated
+### Updates
 - [x] SphereNet: a neural network that learns on hyperspheres </li>
-- [ ] SphereResNet: an adaptation of SphereConv to residual networks </li>
+- [x] SphereResNet: an adaptation of SphereConv to residual networks </li>
 
 ### Contents
 0. [Introduction](#introduction)
