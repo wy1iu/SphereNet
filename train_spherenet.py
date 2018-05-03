@@ -14,7 +14,6 @@ batch_sz = 128
 batch_test = 100
 max_epoch = 64000
 lr = 1e-3
-momentum = 0.9
 
 # directory for training dataset
 data_path = 'cifar10/'
