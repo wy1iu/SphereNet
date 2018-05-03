@@ -151,7 +151,7 @@ class SphereNet():
             feat = self._conv_layer(feat, ksize, n_out, is_training, name="conv3_"+str(i), bn=True, relu=True, pad='SAME', norm='cosine', reg=False, orth=True)
         feat = self._max_pool(feat, 'pool3')      
 
-        self.fc6 = self._conv_layer(feat, 4, 256, is_training, "fc6", bn=True, relu=False, pad='VALID', norm='cosine', reg=False, orth=True)        
+        self.fc6 = self._conv_layer(feat, 4, 256, is_training, "fc6", bn=False, relu=False, pad='VALID', norm='cosine', reg=False, orth=True)        
 
         self.score = self._conv_layer(self.fc6, 1, n_class, is_training, "score", bn=False, relu=False, pad='VALID', norm='none', reg=True, orth=False, w_norm='none')
 
